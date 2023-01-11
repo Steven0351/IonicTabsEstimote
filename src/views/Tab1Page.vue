@@ -19,5 +19,6 @@
 
 <script setup lang="ts">
 import { IonPage, IonHeader, IonToolbar, IonTitle, IonContent } from '@ionic/vue';
+import { sduwb as EstimoteUWBPlugin } from 'estimoteplugin';
 import ExploreContainer from '@/components/ExploreContainer.vue';
 </script>
